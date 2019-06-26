@@ -30,7 +30,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-Spent some time learning Java syntax and learning layout of Android Studio. There was a small issue where a dependency we included in gradle was overwritten by the Android.os version and some functions were unresolved. Played around with constraint layout and spacing options. 
+Spent some time learning Java syntax and learning the layout of Android Studio. There was a small issue where a dependency we included in gradle was overwritten by the Android.os version and some functions were unresolved. Played around with constraint layout and spacing options. 
 
 ## License
 
