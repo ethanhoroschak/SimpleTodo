@@ -20,7 +20,7 @@ The following **stretch** features are implemented:
 
 The following **additional** features are implemented:
 
-* [x] Toast notifications for successful addition or removal of todo list items.
+* [x] Toast notifications for successful removal of todo list items.
 
 ## Video Walkthrough
 
